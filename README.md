@@ -6,11 +6,11 @@ _By Shiv Hoysala_
 
 ---
 
-## 🧭 Project Overview
+## Project Overview
 
 This framework documents how I designed an integrated **Go-to-Market (GTM) system** connecting marketing, sales, and customer success around a unified data and execution layer.
 
-The goal: make revenue predictable — not reactive.
+The goal: make revenue predictable not reactive.
 
 By aligning ICP definition, messaging, campaign orchestration, and measurement, the GTM engine delivered consistent **pipeline velocity**, **CAC efficiency**, and **ARR growth** across markets.
 
@@ -22,7 +22,7 @@ Salesforce • HubSpot/Marketo • 6sense • Tableau • Google Ads • LinkedI
 
 ---
 
-## 🎯 Strategy
+## Strategy
 
 - **Diagnose:** Identify revenue leaks — misaligned ICPs, attribution gaps, and siloed goals across teams.  
 - **Design:** Build a GTM architecture linking top-funnel intent, mid-funnel engagement, and post-sale expansion.  
@@ -32,17 +32,17 @@ Salesforce • HubSpot/Marketo • 6sense • Tableau • Google Ads • LinkedI
 
 ---
 
-## ⚙️ Execution
+## Execution
 
 - **ICP & Segmentation:** Rebuilt ICPs using firmographics + intent + historical close-rate data; segmented into *Enterprise / Mid-Market / Expansion*.  
-- **Value Proposition Design:** Created unified messaging pillars for each segment — *Efficiency, Integration, Incrementality.*  
+- **Value Proposition Design:** Created unified messaging pillars for each segment  *Efficiency, Integration, Incrementality.*  
 - **Channel Mix:** Balanced ABM (1:1, 1:Few, 1:Many) with inbound and lifecycle programs.  
 - **Alignment Routines:** Introduced weekly GTM councils across regions to sync pipeline targets and resource allocation.  
 - **Measurement Stack:** Integrated 6sense + Salesforce + Tableau to visualize real-time ARR contribution by channel and region.
 
 ---
 
-## 🔄 How It Worked
+## How It Worked
 
 Data from every channel flowed into a single attribution schema in Snowflake, modeled by stage and source.  
 Campaign results fed into a Tableau dashboard showing *pipeline influence, CAC trend, and win-rate lift.*
@@ -56,7 +56,7 @@ Every quarter, low-lift channels were pruned and budgets reallocated based on **
 
 ---
 
-## 🧠 GTM Architecture (Framework Diagram)
+## GTM Architecture (Framework Diagram)
 
 **Framework:** Diagnose → Design → Deploy → Scale → Optimize  
 
@@ -73,7 +73,7 @@ Every quarter, low-lift channels were pruned and budgets reallocated based on **
 
 ---
 
-## 📈 Metrics Summary
+## Metrics Summary
 
 | Metric | Before | After | Δ |
 |---------|---------|--------|----|
@@ -87,7 +87,7 @@ Every quarter, low-lift channels were pruned and budgets reallocated based on **
 
 ---
 
-## 🧩 Key Decisions & Lessons
+## Key Decisions & Lessons
 
 - **Unified definitions create alignment.** The biggest GTM gains came from cleaning data, not adding tools.  
 - **Incrementality beats attribution.** Proving lift won more budget than multi-touch arguments.  
@@ -97,7 +97,7 @@ Every quarter, low-lift channels were pruned and budgets reallocated based on **
 
 ---
 
-## 🧩 Visual Evidence (Notion / Canva Assets)
+## Visual Evidence (Notion / Canva Assets)
 
 | Asset | Description | Tool |
 |--------|--------------|------|
@@ -108,7 +108,7 @@ Every quarter, low-lift channels were pruned and budgets reallocated based on **
 
 ---
 
-## 💬 Closing Insight
+## Closing Insight
 
 > **“GTM isn’t a launch plan — it’s a living system.  
 > The teams that treat it like software, not theatre, win.”**
